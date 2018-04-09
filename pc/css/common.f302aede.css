@@ -1,0 +1,12 @@
+.cont .top {
+    color: #FF9302;
+  }
+    .cont .top .logo {
+    	display: inline-block;
+    	width: 100px;
+    	height: 200px;
+    	background-image: url(/static/pc/ico-header-logo.2f79564f.jpg);
+    }
+  .cont .bottom {
+    color: #F00000;
+  }
